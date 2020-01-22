@@ -6,7 +6,15 @@ Conception d'un clavier mécanique avec un layout qui me va bien.
 [https://www.pcgamingrace.com/blogs/guides-resources/gateron-switch-color-guide](https://www.pcgamingrace.com/blogs/guides-resources/gateron-switch-color-guide)
 [http://www.pc-100.com/fr/step-step-diy-personalized-gh60-mechanical-keyboard/](http://www.pc-100.com/fr/step-step-diy-personalized-gh60-mechanical-keyboard/)
 
+# Normes
+La forme de certaines touches ainsi que leur longueur peuvent varier selon les normes : [touche entrée](https://deskthority.net/wiki/Return_key), [différences entre les deux normes](https://deskthority.net/wiki/ANSI_vs_ISO) et [la norme JIS](https://deskthority.net/wiki/ANSI_vs_JIS)
 
+Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi-iso-ou/).
+
+
+## ISO
+## ANSI
+## JIS
 # Le layout
 # Le PCB
 # Le plateau
