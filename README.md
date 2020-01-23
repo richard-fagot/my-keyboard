@@ -24,6 +24,7 @@ Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi
 ## Historique
 C'est Cherry MX qui a introduit les commutateurs mécaniques pour clavier en 198X. La licence ayant pris fin en 200X un nombre grandissant de producteurs de commutateurs sont apparu, certains étant des clones de Cherry, d'autres ayant leur propre design. C'est surtout avec le développement du gaming que la vente de switch a explosé. *Références !!!!!*
 
+## Les différents types de commutateurs
 
 Une bonne comparaison de certains commutateurs est décrite [dans cet article](https://www.pcgamer.com/best-mechanical-switches-for-gaming/).
 
@@ -36,3 +37,6 @@ Une bonne comparaison de certains commutateurs est décrite [dans cet article](h
 |Zealios||
 |T1||
 |Outemu|[peu cher mais basse qualité](https://www.youtube.com/watch?v=RcpBgxVR3tc)|
+
+## Quel commutateur choisir
+[Ce site](https://mechanicalkeyboards.com/switches/index.php?brand=&stem=&feel=&sort=Typing) propose un catalogue des différents commutateurs existant avec des filtres pour aider à trouver celui qui convient le mieux.
