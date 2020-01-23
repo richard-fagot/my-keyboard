@@ -21,6 +21,10 @@ Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi
 # La boîte
 # Les capuchons de touche
 # Les commutateurs
+## Historique
+C'est Cherry MX qui a introduit les commutateurs mécaniques pour clavier en 198X. La licence ayant pris fin en 200X un nombre grandissant de producteurs de commutateurs sont apparu, certains étant des clones de Cherry, d'autres ayant leur propre design. C'est surtout avec le développement du gaming que la vente de switch a explosé. *Références !!!!!*
+
+
 Une bonne comparaison de certains commutateurs est décrite [dans cet article](https://www.pcgamer.com/best-mechanical-switches-for-gaming/).
 
 |Marque|Commentaire|
