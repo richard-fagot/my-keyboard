@@ -29,4 +29,4 @@ Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi
 |Kailh||
 |Zealios||
 |T1||
-|Otemu|[peu cher mais basse qualité](https://www.youtube.com/watch?v=RcpBgxVR3tc)|
+|Outemu|[peu cher mais basse qualité](https://www.youtube.com/watch?v=RcpBgxVR3tc)|
