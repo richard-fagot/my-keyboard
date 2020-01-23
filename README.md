@@ -21,6 +21,8 @@ Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi
 # La boîte
 # Les capuchons de touche
 # Les commutateurs
+Une bonne comparaison de certains commutateurs est décrite [dans cet article](https://www.pcgamer.com/best-mechanical-switches-for-gaming/).
+
 |Marque|Commentaire|
 |------|-----------|
 |Aliaz||
