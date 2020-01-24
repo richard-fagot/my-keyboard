@@ -15,6 +15,9 @@ Les normes dépendent également des [pays](https://www.qeyboard.fr/2019/01/ansi
 ## ISO
 ## ANSI
 ## JIS
+## AFNOR
+La [récente norme AFNOR](https://normalisation.afnor.org/actualites/faq-clavier-francais/) qui inclu le Bépo !
+
 # Le layout
 # Le PCB
 # Le plateau
